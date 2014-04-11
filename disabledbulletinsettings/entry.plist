@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "disabledbulletinsettings";
+		cell = PSLinkCell;
+		detail = "disabledbulletinsettingsListController";
+		icon = "DB_Icon.png";
+		isController = 1;
+		label = "Disabled Bulletin";
+	};
+}

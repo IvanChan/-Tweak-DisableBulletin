@@ -1,0 +1,9 @@
+Package: com.ivanc.disablebulletin
+Name: DisabledBulletin
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
+Version: 2.2.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ivan.C
+Author: ivan.C
+Section: Tweaks
