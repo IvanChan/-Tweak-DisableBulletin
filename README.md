@@ -6,5 +6,5 @@ This is just a little tweak that help you to disable User NotificationCenter. It
 Still, the preferenceloader might have some bugs that this tweal fail to add a preference bundle to Settings App in arm64.
 
 ======================
-ivan.C
+_ivanC
 airivan@hotmail.com
